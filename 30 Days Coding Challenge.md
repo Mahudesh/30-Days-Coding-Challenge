@@ -5,3 +5,4 @@ Day 2: 03/11/2023 Leet Code- Strictly Palindrome Number || Coding Ninjas - Rotat
 Day 3: 04/11/2023 Leet Code- Move Zeros || Coding Ninjas - First Missing Positive || Code Chef - Tom And Jerry Chase
 Day 4: 05/11/2023 Leet Code- Power Of  Four || Coding Ninjas - Sort 0 1 2 || Code Chef - Practice Makes Us Perfect
 Day 5: 06/11/2023 Leet Code- Length of the last word || Coding Ninjas - Pair Sum || Code Chef - Messi Vs Ronaldo
+Day 6: 07/11/2023 Leet Code- Apply Operations To The Array|| Coding Ninjas -Sum Of Min And Max In An Array || Code Chef - Netflix
