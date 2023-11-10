@@ -8,3 +8,4 @@ Day 5: 06/11/2023 Leet Code- Length of the last word || Coding Ninjas - Pair Sum
 Day 6: 07/11/2023 Leet Code- Apply Operations To The Array|| Coding Ninjas -Sum Of Min And Max In An Array || Code Chef - Netflix
 Day 7: 08/11/2023 Leet Code- Fizz Buzz|| Coding Ninjas -Nth Fibonacci Number || Code Chef -Candy Store
 Day 8: 09/11/2023 Leet Code- Remove Element|| Coding Ninjas -Two Sum || Code Chef -Couple Game
+Day 9: 10/11/2023 Leet Code- Two Sum II|| Coding Ninjas -Check If A String Is A Palindrome || Code Chef - Chef And Chocolates
