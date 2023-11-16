@@ -11,3 +11,4 @@ Day 8: 09/11/2023 Leet Code- Remove Element|| Coding Ninjas -Two Sum || Code Che
 Day 9: 10/11/2023 Leet Code- Two Sum II|| Coding Ninjas -Check If A String Is A Palindrome || Code Chef - Chef And Chocolates
 Day 10: 13/11/2023 Leet Code- Spiral Matrix|| Coding Ninjas -Print Like A Wave || Code Chef - Chairs Requirement
 Day 11: 14/11/2023 Leet Code- Binary Tree Inorder Traversal|| Coding Ninjas -Find Character Case || Code Chef - Enough Space
+Day 12: 16/11/2023 Leet Code- Valid Paranthesis|| Coding Ninjas -Reverse First K Elements Of A Queue || Code Chef - Chef In The Office
