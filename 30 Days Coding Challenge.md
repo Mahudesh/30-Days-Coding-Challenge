@@ -15,3 +15,4 @@ Day 12: 16/11/2023 Leet Code- Valid Paranthesis|| Coding Ninjas -Reverse First K
 Day 13: 17/11/2023 Leet Code- Contains Duplicate|| Coding Ninjas -Sort Of A Stack || Code Chef - Can you eat it
 Day 14: 18/11/2023 Leet Code- Climbing Stairs|| Coding Ninjas -Magic Index || Code Chef - Sale Season
 Day 15: 19/11/2023 Leet Code- Sudoku Solver|| Coding Ninjas -Remove Duplicates From Sorted Array || Code Chef - Best Coupon
+Day 16: 20/11/2023 Leet Code- Find Target Indices After Sorting Array|| Coding Ninjas - Binary Search|| Code Chef - Finding Shoes
