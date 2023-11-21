@@ -16,3 +16,4 @@ Day 13: 17/11/2023 Leet Code- Contains Duplicate|| Coding Ninjas -Sort Of A Stac
 Day 14: 18/11/2023 Leet Code- Climbing Stairs|| Coding Ninjas -Magic Index || Code Chef - Sale Season
 Day 15: 19/11/2023 Leet Code- Sudoku Solver|| Coding Ninjas -Remove Duplicates From Sorted Array || Code Chef - Best Coupon
 Day 16: 20/11/2023 Leet Code- Find Target Indices After Sorting Array|| Coding Ninjas - Binary Search|| Code Chef - Finding Shoes
+Day 17: 21/11/2023 Leet Code- Reverse Vowel Of A String|| Coding Ninjas - Sum OF Two Arrays|| Code Chef - Battery Health
