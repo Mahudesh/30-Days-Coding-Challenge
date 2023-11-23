@@ -18,3 +18,4 @@ Day 15: 19/11/2023 Leet Code- Sudoku Solver|| Coding Ninjas -Remove Duplicates F
 Day 16: 20/11/2023 Leet Code- Find Target Indices After Sorting Array|| Coding Ninjas - Binary Search|| Code Chef - Finding Shoes
 Day 17: 21/11/2023 Leet Code- Reverse Vowel Of A String|| Coding Ninjas - Sum OF Two Arrays|| Code Chef - Battery Health
 Day 18: 22/11/2023 Leet Code- Binary Tree Post Order Traversal|| Coding Ninjas - Quick Sort|| Code Chef - Minimum Pizzas
+Day 19: 23/11/2023 Leet Code- Binary Tree Pre Order Traversal|| Coding Ninjas - Square Root Of A Number|| Code Chef - Spice Level
