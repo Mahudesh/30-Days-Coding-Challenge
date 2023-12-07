@@ -1,0 +1,24 @@
+Problem:
+Count The Words In A Given String.
+
+Input:
+
+import java.util.* ;
+import java.io.*; 
+import java.util.Scanner;
+class Solution {
+	
+    static int  countWords(String input)
+     {
+        String str[]=input.split(" ");
+        return str.length;
+    }
+    
+	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
+        int output = countWords(input);
+        System.out.println(output);
+		
+	}
+}
